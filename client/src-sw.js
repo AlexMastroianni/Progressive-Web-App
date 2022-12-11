@@ -18,7 +18,6 @@ const pageCache = new CacheFirst({
     }),
   ],
 });
-
 warmStrategyCache({
   urls: ['/index.html', '/'],
   strategy: pageCache,
