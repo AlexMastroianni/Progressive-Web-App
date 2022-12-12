@@ -34,7 +34,9 @@ Then open http://localhost:3000/ to run this application on your local machine.
 
 ## Deployed Link
 
-Deployed application is: https://quiet-oasis-10288.herokuapp.com.![Screen Shot 2022-12-12 at 10 04 46 am](https://user-images.githubusercontent.com/107826386/206987665-e261947d-13cd-4f8f-a851-b6e6e2b25a28.png)
+Deployed application is: https://quiet-oasis-10288.herokuapp.com.![Screen Shot 2022-12-12 at 10 04 46 am]
+
+(https://user-images.githubusercontent.com/107826386/206987665-e261947d-13cd-4f8f-a851-b6e6e2b25a28.png)
 
 
 ## Built With
